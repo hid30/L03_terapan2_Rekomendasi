@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - M. HAFIS AFRIZAL
+# Laporan Proyek Machine Learning - Deosa Putra Caniago
 
 ## Project Overview
 Sistem rekomendasi film menjadi komponen kunci di platform streaming seperti Netflix dan Disney+ untuk meningkatkan pengalaman pengguna dan retensi pelanggan. Proyek ini bertujuan membangun sistem rekomendasi film menggunakan **Content-based Filtering** (berdasarkan genre) dan **Collaborative Filtering** (berdasarkan rating pengguna) dengan dataset **MovieLens Small Dataset**. Sistem ini penting karena membantu pengguna menemukan film yang sesuai preferensi mereka, mengurangi waktu pencarian, dan meningkatkan kepuasan pengguna.
